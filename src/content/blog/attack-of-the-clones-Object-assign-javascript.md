@@ -3,7 +3,7 @@ title: Attack of the Clones - When to use JavaScript Object.assign()
 description: limitations and alternatives
 tags:
   - Javascript
-ogImage: ./clone-cover.jpg
+ogImage: https://res.cloudinary.com/dgxvjwyhm/image/upload/v1675958430/clone-cover.jpg
 pubDatetime: 2018-08-04T15:57:52.737Z
 ---
 

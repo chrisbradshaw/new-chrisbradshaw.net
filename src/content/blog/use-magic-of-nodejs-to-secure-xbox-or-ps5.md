@@ -3,7 +3,7 @@ title: Use the Magic of Node.js to get a PS5 or Xbox Series X!
 description: Secure the bag
 tags:
   - "Javascript"
-ogImage: ./xbox-ps5.jpg
+ogImage: https://res.cloudinary.com/dgxvjwyhm/image/upload/v1675958430/xbox-ps5.jpg
 pubDatetime: 2020-12-28T15:57:52.737Z
 ---
 

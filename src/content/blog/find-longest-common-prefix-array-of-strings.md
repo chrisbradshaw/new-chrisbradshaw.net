@@ -3,7 +3,7 @@ title: Find Longest Common Prefix in Array of Strings - Javascript
 description: Faster than 94.37% of Leetcode Submissions
 tags:
   - Javascript
-ogImage: ./longest-common-prefix-ogImage.jpg
+ogImage: https://res.cloudinary.com/dgxvjwyhm/image/upload/v1675958430 longest-common-prefix-cover.jpg
 pubDatetime: 2020-12-24T15:57:52.737Z
 ---
 

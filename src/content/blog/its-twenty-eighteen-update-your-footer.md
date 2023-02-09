@@ -3,7 +3,7 @@ title: It's 2018, Update Your Footer
 description: Yes, this is the first blog post on my new portfolio site
 tags:
   - Javascript
-ogImage: ./old-portfolio.jpg
+ogImage: https://res.cloudinary.com/dgxvjwyhm/image/upload/v1675958430/old-portfolio.jpg
 pubDatetime: 2018-06-15T15:57:52.737Z
 ---
 
