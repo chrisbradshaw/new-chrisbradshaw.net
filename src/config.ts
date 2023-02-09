@@ -38,7 +38,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.linkedin.com/in/chrisbradshaw3",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
