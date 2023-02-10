@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://www.chrisbradshaw.net/",
   author: "Chris Bradshaw",
   desc: "Personal website of Chris Bradshaw, New York City based software engineer.",
-  title: "Chris Bradshaw: NYC based Software Engineer",
+  title: "Chris Bradshaw",
   ogImage:
     "https://res.cloudinary.com/dgxvjwyhm/image/upload/v1675958290/chris-bradshaw.png",
   lightAndDarkMode: true,
