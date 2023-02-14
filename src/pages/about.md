@@ -4,7 +4,7 @@ title: "About"
 ogImage: ./chris-bradshaw.png
 ---
 
-[Resume](https://drive.google.com/file/d/1OtKl7VDSqySLjQ-ku82zYNhIvrbP2vpb/view?usp=sharing) |
+[Resume](https://drive.google.com/file/d/1uAae-9jnBlSS0UQ5TVx-vPqobjk1HF-C/view?usp=sharing) |
 [Github](https://github.com/chrisbradshaw) |
 
 ### Bio
