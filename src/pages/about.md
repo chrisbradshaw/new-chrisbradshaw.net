@@ -5,41 +5,43 @@ ogImage: ./chris-bradshaw.png
 ---
 
 [Resume](https://drive.google.com/file/d/1uAae-9jnBlSS0UQ5TVx-vPqobjk1HF-C/view?usp=sharing) |
-[Github](https://github.com/chrisbradshaw) |
+[Github](https://github.com/chrisbradshaw)
 
 ### Bio
 
-Hi, I'm Chris Bradshaw, a full stack web developer from NYC.
+What's Up, Internet! 🚀
 
-My journey to become a software engineer began when I was building an ecommerce business in 2014. I paid a lot of money for someone else to build my website, and after seeing the bill, I decided to learn how to build them myself. I started taking classes online and instantly found my passion. I applied and was accepted to the Flatiron School, a web immersive bootcamp with at that time, a <7% acceptance rate on 11 Broadway in New York City's financial district (right in front of the Charging Bull statue).
+I'm Chris Bradshaw, a full stack web developer hailing from NYC. 🗽
 
-Out of Flatiron School, I was hired by SpinMedia Group as an AdTech Engineer building out Javascript advertising units on sites like [Spin](https://www.spin.com), [Vibe](https://www.vibe.com), and [Stereogum](https://www.stereogum.com) reaching over 22M unique visitors per month.
+### Early Days
 
-After SpinMedia, I joined Group Nine Media in Soho, New York City on the Consumer Experience team working on all aspects of G9's owned and operated sites [Thrillist](https://www.thrillist.com), [POPSUGAR](https://www.popsugar.com), [The Dodo](https://www.thedodo.com), [NowThis News](https://www.nowthisnews.com), [NowThis Originals](https://www.nowthisoriginals.com) and [Seeker](https://www.seeker.com).
+Back in 2014, as an ambitious entrepreneur launching an ecommerce biz, I found myself staring at an intimidating web development bill. That's when I thought, "Why not give this a shot myself?" Thus began my coding journey. 🎮
 
-In February 2021, I started a new position at Warby Parker as a Senior Front End Engineer. I worked on the WWW team building out features for [warbyparker.com](https://www.warbyparker.com) including Guest Checkout, Insurance/Coupons/Promo Codes, PayPal integrations and many more.
+My newfound interest led me to the esteemed Flatiron School in the heart of NYC. With a rigorous <7% acceptance rate, I immersed myself in their web bootcamp.
 
-In June of 2022, I started at Spotify working on the Amplify (advertising) team. I'm a web engineer working on [Ad Studio](https://ads.spotify.com/en-US/), with a focus on new advertiser sign ups and existing advertiser retention.
+### SpinMedia / Group Nine Media
 
-Check out my skills below, and please reach out with any questions or just to chat at [bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com)
+Upon graduating, I hit the ground running at SpinMedia Group as an AdTech Engineer. I engineered slick JavaScript ad units for major sites like [Spin](https://www.spin.com), [Vibe](https://www.vibe.com), and [Stereogum](https://www.stereogum.com) , reaching over 22M unique visitors per month. 🌐
 
-### Skillset
+Next, I moved to Group Nine Media in Soho, where I joined the Consumer Experience team. Here, I honed my skills on all things G9: [Thrillist](https://www.thrillist.com), [POPSUGAR](https://www.popsugar.com), [The Dodo](https://www.thedodo.com), [NowThis News](https://www.nowthisnews.com), and [Seeker](https://www.seeker.com). 📚
 
-- Typescript
-- Node.js
-- React.js/Redux/Redux-Saga
-- Webpack
-- NPM/Yarn/Babel
-- GraphQL
-- High Level CSS(Flexbox & Grid)/SASS/Styled Components
-- Ruby on Rails/PostgreSQL
-- Git/BASH/JIRA/Airtable
-- Building projects to design spec from InVision/DSM/Photoshop
-- Storybook/Styled Systems/Style Dictionary/Rebass
-- Analytics - Google Analytics, Permutive, Nielson, comScore
-- Video Advertisting/Analytics - VAST, MOAT, etc.
-- Affliate - Skimlinks, Amazon, etc.
-- Ad Units - Google Double Click for Publishers
-- Google AMP, Facebook Instant Articles and Apple News Development
-- Lerna/Monorepos/Next.js
-- Nginx/HTML/Wordpress/SEO
+### Warby Parker
+
+In 2021, I joined [Warby Parker](https:/www.warbyparker.com) as a Senior Front End Engineer, where I contributed significantly to the brand's online experience. I lead projects that redesigned the checkout experience, adding Guest Checkout, building Insurance/Promo Codes functionality and streamlining PayPal integrations. 🛍️
+
+### Spotify
+
+Fast forward to 2022 (and beyond), and you'll find me at Spotify, jamming out on the Amplify team. As a web engineer, I'm tuning up [Ad Studio](https://ads.spotify.com/en-US/), with a key focus on amplifying new advertiser sign-ups and existing advertiser retention. 🎵
+
+Curious about what's in my developer toolkit? 🛠️ Check it out below! Or better yet, let's chat about your next big idea, a clever code hack, or just shoot the breeze. Drop me a line at [bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com). Can't wait to connect! 📬
+
+### Skills that Rock:
+
+- **Frontend Fire:** TypeScript, React.js/Redux/Redux-Saga, High Level CSS, Styled Components 🎸
+- **Backend Beats:** Node.js, Java, Ruby on Rails, SQL 🥁
+- **Module Maestro:** Webpack, NPM/Yarn, Next.js 🎹
+- **Data Dancer:** GraphQL, REST 🕺
+- **Control & Collaboration:** Git, bash, JIRA 💼
+- **Design & UI:** Figma, Storybook 🖌️
+- **Analytics Ace:** Google Analytics, Google Tag Manager, Pixels 📈
+- **Advertising All-Star:** GAM, VAST, MOAT, Affiliate - Skimlinks, Amazon, Custom Ad Units 📺

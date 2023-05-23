@@ -13,12 +13,18 @@ export const SITE = {
 
 export const LOGO_IMAGE = {
   enable: false,
-  svg: true,
+  svg: false,
   width: 216,
   height: 46,
 };
 
 export const SOCIALS: SocialObjects = [
+  {
+    name: "Twitter",
+    href: "https://twitter.com/_chrisbradshaw",
+    linkTitle: ` ${SITE.title} on Twitter`,
+    active: true,
+  },
   {
     name: "Github",
     href: "https://github.com/chrisbradshaw",
