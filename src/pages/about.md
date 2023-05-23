@@ -13,11 +13,16 @@ What's Up, Internet! 🚀
 
 I'm Chris Bradshaw, a full stack web developer hailing from NYC. 🗽
 
+<img src="https://res.cloudinary.com/dgxvjwyhm/image/upload/v1684867063/tswift-party.jpg" alt="chris at a taylor swift party" width="305px" style="
+    border-radius: 12px;
+    border: 3px solid white;
+"/>
+
 ### Early Days
 
 Back in 2014, as an ambitious entrepreneur launching an ecommerce biz, I found myself staring at an intimidating web development bill. That's when I thought, "Why not give this a shot myself?" Thus began my coding journey. 🎮
 
-My newfound interest led me to the esteemed Flatiron School in the heart of NYC. With a rigorous <7% acceptance rate, I immersed myself in their web bootcamp.
+My newfound interest led me to the esteemed Flatiron School in the heart of NYC. With a rigorous <7% acceptance rate, I immersed myself in their intensive bootcamp.
 
 ### SpinMedia / Group Nine Media
 
